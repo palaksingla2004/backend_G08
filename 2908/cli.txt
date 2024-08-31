@@ -1,0 +1,11 @@
+C:\Users\PALAK SINGLA>cd desktop
+C:\Users\PALAK SINGLA\Desktop>git clone https://github.com/palaksingla2004/backend_G08
+Cloning into 'backend_G08'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+
+C:\Users\PALAK SINGLA\Desktop>cd backend_G08
+
+C:\Users\PALAK SINGLA\Desktop\backend_G08>code .
